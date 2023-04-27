@@ -48,7 +48,7 @@ Z uzyskanych pieniędzy założyłbym firmę i ją rozwijał. **Uważam, że spa
 ### W podsumowaniu może podam fun fact.
 W podsumowaniu może podam fun fact. Gdy byliśmy na integralu to miałem szkolenie z Marselem na temat Wyznaczania sobie własnych celi. Jednym z moich celów, które zapisałem było właśnie zostanie TR BiteHacka. Zdjęcie wstawiam poniżej, a po weryfikację zapraszam do Marsela. 
 
-### ZBUDUJMY RAZEM COŚ PIĘKNEGO❗️❗️❗️
+### ZBUDUJMY RAZEM COŚ PIĘKNEGO❗️
 
 PS: Bardzo chciałbym poczuć ten smak szampana :)
 
