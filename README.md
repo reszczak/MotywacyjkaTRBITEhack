@@ -37,6 +37,7 @@ Na wakacjach jak i w czerwcu planuję siedzieć w domu, tak więc mam sporo woln
 Myslę, że możemy dać się popisać naszym sponsorom i zaalokować trzecią kategorię bezpośrednio dla nich. 🧠🧠🧠
 ### Którymi zadaniami zająłbym się najchętniej?
 Najchętniej zająłbym się stworzeniem strony internetowej , opracowaniem tematów na kategorię klasyczną oraz współpracą z drugim TR-owcem. ***Uważam tak, gdyż jest to świetna możliwość do samorozwoju a na tym mi najbardziej zależy. Stron internetowych pisać nie umiem, a jest to świetna okazja żeby narzucić sobie jakieś wyzwanie i za wszelką cenę do niego dążyć przy okazji ucząc się programować.*** 💻💻💻
+![fajengifek](leo.gif)
 ### To w takim razie czym niechciałbym się zajmować?
 A jeżeli chodzi o zadania którymi najmniej chciałbym się zająć to rzeczy polegające stricte na zamawianiu nagród i komponentów.🎄 🎄 🎄 
 ### Co zrobiłbym z sianem za jednego bitcoina? 
