@@ -9,7 +9,7 @@ printf("Potężne monstrum wkrótce podpływa do waszego statku i zamiast go nis
 printf("Tak jest! To właśnie on! DISCO BANIA"\n)
   }
 ```
-![fajengifek](wowgif.git)
+![fajengifek](wowgif.gif)
 ## Co mogę zaoferować dla coreteamu? 
 1. ~~Nieśmieszne żarty~~ Wspaniałą atmosferę
 2. ~~Choroby układu nerwowego~~ Pomoc i zaangażowanie
