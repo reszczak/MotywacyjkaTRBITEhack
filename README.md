@@ -18,7 +18,7 @@ printf("Tak jest! To właśnie on! DISCO BANIA"\n);
 5. ~~Mefedron gdy tylko będziecie go potrzebować~~ Mówimy NIE dla ćpania!
 
 ## Co jest moją motywacją? 
-Kiedy dołączałem do ***Bestu***, to od razu wiedziałem że ***BiteHack*** to jest ten projekt, w którym chcę brać udział. Ciągle tylko o nim gadałem i gadałem. Uważam, że jest to idealna okazja, żeby nauczyć się pracy w zespole a także stawić czoła informatycznym zagadkom takim jak np. wymyślenie zadania dla naszych uczestników. **Jest to też okazja do samorozwoju, a przecież o to w Beście chodzi. Studiuję informatykę, a więc dziwne jest, gdybym nie pokładał w tym projekcie swoich największych nadziei.** *A jeżeli chodzi o samą informatykę, to odkąd dane jest mi pisać, to czuję się spełniony. Lubię myśleć, lubię analizować, lubię gdy efekty mojej pracy są widoczne gołym okiem.*
+Kiedy dołączałem do ***Bestu***, to od razu wiedziałem że ***BITEhack*** to jest ten projekt, w którym chcę brać udział. Ciągle tylko o nim gadałem i gadałem. Uważam, że jest to idealna okazja, żeby nauczyć się pracy w zespole a także stawić czoła informatycznym zagadkom takim jak np. wymyślenie zadania dla naszych uczestników. **Jest to też okazja do samorozwoju, a przecież o to w Beście chodzi. Studiuję informatykę, a więc dziwne jest, gdybym nie pokładał w tym projekcie swoich największych nadziei.** *A jeżeli chodzi o samą informatykę, to odkąd dane jest mi pisać, to czuję się spełniony. Lubię myśleć, lubię analizować, lubię gdy efekty mojej pracy są widoczne gołym okiem.*
 
 ### Podsumowując moją powyższą wypowiedź:
 ```c++
@@ -27,7 +27,7 @@ class Dawid
     int passion = 100%;
     int engagement = 100%;
     int knowledge = 50%; //I would like to have much much more :/
-    int hapiness = 25%; //Can be more if I will be the TR :)
+    int happiness = 25%; //Can be more if I will be the TR :)
         };
 ```
 ## Odpowiedzi na pytania: 
@@ -41,12 +41,12 @@ Najchętniej zająłbym się stworzeniem strony internetowej , opracowaniem tema
 ### To w takim razie czym niechciałbym się zajmować?
 A jeżeli chodzi o zadania którymi najmniej chciałbym się zająć to rzeczy polegające stricte na zamawianiu nagród i komponentów.🎄 🎄 🎄 
 ### Co zrobiłbym z sianem za jednego bitcoina? 
-Z uzyskanych pieniędzy założyłbym firmę i ją rozwijał. **Uważam, że spanie na gotówce i nierobienie niczego nie jest dobre dla samego siebie.** *W pewnym momencie takiego życia, to wszystko staje się nudne, bo ile można?* ***Napewno chciałbym się dalej rozwijać a nie bezczynnie siedzieć.*** 💵💵💵
+Z uzyskanych pieniędzy założyłbym firmę i ją rozwijał. **Uważam, że spanie na gotówce i nierobienie niczego nie jest dobre dla samego siebie.** *W pewnym momencie takiego życia, to wszystko staje się nudne, bo ile można?* 💵💵💵
 ![fajengifek](firemka.gif)
 
 ## Podsumowanie
 ### W podsumowaniu może podam fun fact.
-W podsumowaniu może podam fun fact. Gdy byliśmy na integralu to miałem szkolenie z Marselem na temat Wyznaczania sobie własnych celi. Jednym z moich celów, które zapisałem było właśnie zostanie TR BiteHacka. Zdjęcie wstawiam poniżej, a po weryfikację zapraszam do Marsela. 
+W podsumowaniu może podam fun fact. Gdy byliśmy na integralu to miałem szkolenie z Marselem na temat wyznaczania sobie własnych celi. Jednym z moich celów, które zapisałem było właśnie zostanie TR BITEhacka. Zdjęcie wstawiam poniżej, a po weryfikację zapraszam do Marsela. 
 
 ### ZBUDUJMY RAZEM COŚ PIĘKNEGO❗️
 
