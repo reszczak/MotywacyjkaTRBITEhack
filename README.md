@@ -41,6 +41,7 @@ Najchętniej zająłbym się stworzeniem strony internetowej , opracowaniem tema
 A jeżeli chodzi o zadania którymi najmniej chciałbym się zająć to rzeczy polegające stricte na zamawianiu nagród i komponentów.🎄 🎄 🎄 
 ### Co zrobiłbym z sianem za jednego bitcoina? 
 Z uzyskanych pieniędzy założyłbym firmę i ją rozwijał. **Uważam, że spanie na gotówce i nierobienie niczego nie jest dobre dla samego siebie.** *W pewnym momencie takiego życia, to wszystko staje się nudne, bo ile można?* ***Napewno chciałbym się dalej rozwijać a nie bezczynnie siedzieć.*** 💵💵💵
+![fajengifek](firemka.gif)
 
 ## Podsumowanie
 ### W podsumowaniu może podam fun fact.
