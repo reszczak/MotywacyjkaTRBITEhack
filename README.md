@@ -27,7 +27,7 @@ class Dawid
     int passion = 100%;
     int engagement = 100%;
     int knowledge = 50%; //I would like to have much much more :/
-    int hapiness = 25%; //can be more if I will be the TR :)
+    int hapiness = 25%; //Can be more if I will be the TR :)
         };
 ```
 ## Odpowiedzi na pytania: 
